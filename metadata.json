@@ -1,0 +1,6 @@
+{
+  "name": "Math Tutor",
+  "description": "An interactive AI-powered math tutor that helps students practice algebra and learn math concepts using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
